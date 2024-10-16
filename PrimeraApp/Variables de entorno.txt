@@ -1,0 +1,7 @@
+Variables de entorno
+
+
+C:\Users\D5-211\AppData\Local\Android\Sdk\platform-tools
+C:\Users\D5-211\AppData\Local\Android\Sdk\cmdline-tools\latest\bin
+C:\Users\D5-211\AppData\Local\Android\Sdk\emulator
+
